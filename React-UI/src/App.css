@@ -1,0 +1,161 @@
+.App {
+  text-align: center;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+.main-log {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding: 60px 0 60px 0;
+  background-color: rgba(12, 11, 11, 0);
+}
+.log {
+  display: flex;
+  justify-content: center;
+  height: 350px;
+  width: 45%;
+  padding-top: 60px;
+  box-shadow: 13px 12px 13px 12px rgb(207, 207, 207);
+  border-radius: 60px;
+  background-color: white;
+}
+.sub {
+  width: 180px;
+  border-radius: 60px;
+}
+.welcome {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  font-size: 12px;
+  background-color: rgba(30, 62, 204, 0.842);
+  height: 50px;
+  margin-bottom: 100px;
+}
+.form-control {
+  border-radius: 60px;
+}
+.img-responsive {
+  margin-bottom: 5px;
+}
+.btn0 {
+  font-size: 8px;
+  color: blue;
+  margin-top: 2px;
+
+  height: 12px;
+  width: 70px;
+}
+
+.ctn {
+  font-size: 15px;
+  font-family: serif;
+  color: rgba(154, 154, 185, 0.808);
+  margin-bottom: 90px;
+}
+.impt {
+  color: rgba(20, 52, 155, 0.719);
+  font-size: 22px;
+}
+.r1 {
+  margin-bottom: 80px;
+}
+.btn1 {
+  background-color: rgba(66, 114, 248, 0.945);
+  font-size: 15px;
+  height: 38px;
+  width: 190px;
+}
+
+.img1 {
+  width: 450px;
+  height: 350px;
+  margin-top: 0%;
+  float: inline-end;
+}
+.img2 {
+  width: 340px;
+  height: 350px;
+}
+.t2 {
+  text-align: center;
+}
+.img3 {
+  width: 300px;
+  height: 350px;
+}
+.img4 {
+  width: 300px;
+  height: 310px;
+}
+.labo {
+  margin-bottom: 100px;
+  text-align: center;
+  font-size: 28px;
+}
+.lab {
+  width: 250px;
+  height: 200px;
+}
+.labos {
+  background-color: rgba(66, 114, 248, 0.945);
+  font-size: 14px;
+  height: 30px;
+  width: 90px;
+}
+.link {
+  flood-color: blue;
+}
+.text {
+  text-align: start;
+}
+
+footer {
+  height: 130px;
+  background-color: rgba(41, 93, 206, 0.842);
+  margin-bottom: 5px;
+  margin-top: 7px;
+}
+.s1 {
+  font-size: 7px;
+  font-family: "Open Sans", sans-serif;
+  color: aliceblue;
+}
+.s2 {
+  font-size: 10px;
+  font-family: "Open Sans", sans-serif;
+}
+.s3 {
+  font-size: 10px;
+  font-family: "Open Sans", sans-serif;
+  color: aliceblue;
+}
+.img-footer {
+  margin-top: 5px;
+  margin-bottom: 7px;
+}
+
+@media (min-width: 551px) and (max-width: 980px) {
+}
+@media (min-width: 220px) and (max-width: 551px) {
+}
+/* Medium Devices, Desktops */
+@media only screen and (min-width: 992px) {
+}
+
+/* Large Devices, Wide Screens */
+
+@media only screen and (min-width: 1200px) {
+}
